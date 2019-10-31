@@ -6,7 +6,7 @@ node liri.js
 
 When there is no action specified after the initial command, liri.js will default to display the possible action of liri.js
 
-###### These actions are:
+### These actions are:
 
 - spotify-this-song 'song name'
 - concert-this 'artist name'
@@ -15,7 +15,7 @@ When there is no action specified after the initial command, liri.js will defaul
 
 Notice that the very last action does not require any specified name. This last action defaults to read from random.txt file.
 
-###### Here is an example of how to use Liri:
+### Here is an example of how to use Liri:
 
 node liri.js spotify-this-song Small World
 
